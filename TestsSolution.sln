@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreApp", "StoreApp\StoreApp.csproj", "{8DE465F8-6F7E-4E37-8199-6A5D8560A816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONApp", "JSONApp\JSONApp.csproj", "{6FFE696B-3F5B-4E3E-84A9-09E69DE325E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLApp", "XMLApp\XMLApp.csproj", "{D3E97E57-C9E0-4FA5-938B-B87E336F32F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DE465F8-6F7E-4E37-8199-6A5D8560A816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE465F8-6F7E-4E37-8199-6A5D8560A816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE465F8-6F7E-4E37-8199-6A5D8560A816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE465F8-6F7E-4E37-8199-6A5D8560A816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FFE696B-3F5B-4E3E-84A9-09E69DE325E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FFE696B-3F5B-4E3E-84A9-09E69DE325E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FFE696B-3F5B-4E3E-84A9-09E69DE325E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FFE696B-3F5B-4E3E-84A9-09E69DE325E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E97E57-C9E0-4FA5-938B-B87E336F32F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E97E57-C9E0-4FA5-938B-B87E336F32F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E97E57-C9E0-4FA5-938B-B87E336F32F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E97E57-C9E0-4FA5-938B-B87E336F32F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B67A9F3B-11D4-4971-8774-A082B2DE2A8E}
+	EndGlobalSection
+EndGlobal

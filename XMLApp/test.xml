@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  Lorem ipsum <key name="k1"/>
+  <local>
+     <template> guest=<key name="k1"/> 
+     </template>
+  </local>
+  <template>
+    Hello <key name="k1"/>.
+    <goodbye> <key name="k2"/>.</goodbye>
+      End
+      <key name="k3"/>
+  </template>
+</root>
